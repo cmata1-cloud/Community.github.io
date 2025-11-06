@@ -13,7 +13,9 @@
 }
 
 body {
+  border: 8px solid black;
   display: flex;
+  justify-content: center;
 }
 .box {
   height: 200px;
