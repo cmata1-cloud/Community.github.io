@@ -11,3 +11,10 @@
   justify-content: center;
   align-items: center;
 }
+
+.box {
+  height: 200px;
+  width: 200px;
+  background-color: black;
+  font-size: 40pt;
+}
