@@ -20,8 +20,10 @@
 }
 
 .box {
-  height: 200px;
-  width: 200px;
-  background-color: black;
-  font-size: 40pt;
+  padding: 2em;
+  background-color: var(--primary-color);
+  color: white;
+  text-align: center;
+  border: 8px;
+  fontsize: 2rem;
 }
