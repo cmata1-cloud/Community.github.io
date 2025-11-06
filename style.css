@@ -12,7 +12,7 @@
   align-items: center;
 }
 
-.whole {
+.grid-container {
   border: 8px solid black;
   display: flex;
   justify-content: center;
