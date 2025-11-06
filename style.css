@@ -17,13 +17,15 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 1em; 
 }
 
 .box {
   padding: 2em;
-  background-color: var(--primary-color);
+  background-color: var(--primary-color, blue);
   color: white;
   text-align: center;
-  border: 8px;
-  fontsize: 2rem;
+  border: 8px solid black;
+  font-size: 2rem;
+  border-radius: 8px;
 }
