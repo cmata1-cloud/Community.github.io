@@ -16,7 +16,9 @@
   border: 8px solid black;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
+
 .box {
   height: 200px;
   width: 200px;
